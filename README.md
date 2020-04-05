@@ -14,6 +14,7 @@ Add some text here.
 ## How to Contribute
 This repository is for showing how Git and GitHub work
 This is a sample text.
+Please fork this repository and then issue Pull Request
 
 Sample website with plenty of files for demos
 
