@@ -4,6 +4,7 @@
 # TEAM
 
     Some name  somename@gmail.com @smtwitter
+    Someone Else someoneElse@gmail.com @someoneelse
 
 # THANKS
 
