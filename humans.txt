@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Some name  somename@gmail.com
+    Some name  somename@gmail.com @smtwitter
 
 # THANKS
 
