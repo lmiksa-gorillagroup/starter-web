@@ -16,3 +16,6 @@ This repository is for showing how Git and GitHub work
 This is a sample text.
 
 Sample website with plenty of files for demos
+
+### Copyright
+2020 Copyright notice
