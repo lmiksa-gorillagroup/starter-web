@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Request
 Sample website with plenty of files for demos
 
 ### Copyright
-2020 Copyright notice
+2020 Copyright notice. All rights reserved.
